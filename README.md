@@ -1,0 +1,1 @@
+# projeto-resumo-do-lab-Armazenamento-Azure
